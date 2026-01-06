@@ -164,3 +164,6 @@ This work is licensed under [Creative Commons Attribution 4.0 International](htt
 ---
 
 **The map, regardless of its resolution, does not become the territory.**
+
+Consciousness Simulator - https://huggingface.co/spaces/michalwojtkow321/ConsciousnessModel - By Myself & Michal Wojtkow.
+Real falsfiable conscious digital twinning.
