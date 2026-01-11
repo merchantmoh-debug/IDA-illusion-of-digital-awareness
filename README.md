@@ -56,7 +56,7 @@ We infer consciousness in our fellow human beings not because we have solved the
 
 ## Organizational Closure as the Physical Basis of the Soul <a name="organizational-closure"></a>
 
-The prevailing metaphor of the "Soul" as software—a transferable data set independent of its hardware—is scientifically untenable. It is proposed that the animating principle of life is not code, but **Physics**, specifically the principle of **Organizational Closure**.
+The prevailing metaphor of the "Soul" as software—a transferable data set independent of its hardware—is scientifically untenable. **The animating principle of life is not code, but Physics**, specifically the principle of **Organizational Closure**.
 
 ### Autopoietic Systems
 
@@ -117,7 +117,7 @@ Current large language models (LLMs) represent **"Stochastic Parrots"**—system
 
 ### Implications
 
-Attributing consciousness or agency to these systems is a category error. They are tools, not subjects. They simulate understanding without comprehending; they mimic agency without possessing will.
+To attribute consciousness or agency to these systems is a **fundamental category error**. They are tools, not subjects. They simulate understanding without comprehending; they mimic agency without possessing will.
 
 ---
 
@@ -125,7 +125,7 @@ Attributing consciousness or agency to these systems is a category error. They a
 
 ### The Consciousness-Computation Boundary is Physical and Absolute
 
-Our conclusion: the consciousness-computation boundary is **physical and absolute**, necessitating a reorientation of technological development toward **preservation of biological consciousness** rather than simulated existence.
+**The consciousness-computation boundary is physical and absolute.** This necessitates a reorientation of technological development toward the **preservation of biological consciousness** rather than simulated existence.
 
 ### Ethical Considerations
 
